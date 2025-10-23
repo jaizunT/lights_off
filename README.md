@@ -20,7 +20,7 @@ Explore a dark, procedurally seeded map, find scattered keys, deliver them to th
 1. **New run:** Press `n`, type a **numeric seed**, then press `s` to start.
 2. **Move** with `WASD`.
 3. **Gather keys** (`j`) and **deliver** them to the zone.
-4. **Use abilities** powered by orbs (`k`, `m`, `z`).
+4. **Use abilities** powered by orbs (`k`, `m`).
 5. **Save** (`v`) and **load** (`l`) anytime; **restart** with `r`.
 
 > Tip: Because runs are seeded, sharing the same seed reproduces the same layout.
